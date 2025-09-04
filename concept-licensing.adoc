@@ -1,0 +1,41 @@
+---
+sidebar: sidebar 
+permalink: concept-licensing.html 
+keywords: freemium, professional, essential, licensing, licenses, cloud volumes ontap charging, cloud volumes ontap licenses, cloud volumes ontap licensing, cvo licenses, cvo licensing, byol, bring your own license, paygo, pay as you go 
+summary: Cloud Volumes ONTAP有多种许可选项。每个选项都允许您选择满足您需求的配置。 
+---
+= Cloud Volumes ONTAP许可概述
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Cloud Volumes ONTAP有多种许可选项。每个选项都可以让您选择符合您需求的消费模式。
+
+新客户可以使用以下许可选项。
+
+基于容量的许可包:: 基于容量的许可使您能够按 TiB 容量支付Cloud Volumes ONTAP费用。该许可证与您的NetApp帐户相关联，只要许可证提供足够的容量，您就可以根据许可证为多个系统收费。
++
+--
+基于容量的许可以_包_的形式提供。部署Cloud Volumes ONTAP系统时，您可以根据业务需求从多个许可包中进行选择。
+
+--
+
+
+https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-licensing.html#packages["套餐"^] https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-licensing-charging.html["关于基于容量的许可证的更多信息"^]
+
+Keystone Flex 订阅:: 一种按需付费的订阅式服务，为那些喜欢 OpEx 消费模式而非前期资本支出或租赁的用户提供无缝的混合云体验。
++
+--
+收费基于Keystone Flex 订阅中一个或多个Cloud Volumes ONTAP HA 对的承诺容量大小。
+
+--
+
+
+对于已经购买许可证或拥有有效市场订阅的现有客户，以前的按节点许可模式仍然可用。
+
+https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-licensing.html["了解有关这些许可选项的更多信息"^]
