@@ -20,6 +20,22 @@ BlueXP的最新版本还引入了其他功能和增强功能。查看 https://do
 
 
 
+== 9.16.1 P7（2025年10月9日）
+
+9.16.1 P7 补丁现已可在 Azure 和 Google Cloud 中为Cloud Volumes ONTAP部署和升级。但此版本暂不支持在 AWS 中部署和升级。BlueXPNetApp Console将提示您将现有系统升级到此补丁版本。
+
+link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.16.1P7["查看 P7 补丁修复的错误列表"^] （需要登录NetApp支持站点）。
+
+
+
+== 9.16.1 P6（2025年10月9日）
+
+9.16.1 P6 补丁现已可在 Azure 和 Google Cloud 中为Cloud Volumes ONTAP部署和升级。但此版本暂不支持在 AWS 中部署和升级。BlueXPNetApp Console将提示您将现有系统升级到此补丁版本。
+
+link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.16.1P6["查看 P6 补丁修复的错误列表"^] （需要登录NetApp支持站点）。
+
+
+
 == 9.16.1 P5（2025 年 7 月 28 日）
 
 9.16.1 P5 补丁现已可在 Azure 和 Google Cloud 中为Cloud Volumes ONTAP部署和升级。但此版本暂不支持在 AWS 中部署和升级。BlueXPBlueXP提示您将现有系统升级到此补丁版本。
@@ -28,7 +44,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
-== 9.16.1 P4（2025 年 7 月 8 日）
+== 9.16.1 P4（2025 年 7 月 08 日）
 
 9.16.1 P4 补丁现已可在 Azure 和 Google Cloud 中为Cloud Volumes ONTAP部署和升级。但此版本暂不支持在 AWS 中部署和升级。BlueXPBlueXP提示您将现有系统升级到此补丁版本。
 
@@ -60,7 +76,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
-== 9.16.1 GA（2025 年 3 月 6 日）
+== 9.16.1 GA（2025 年 3 月 06 日）
 
 您现在可以使用Cloud Volumes ONTAP 9.16.1 通用可用性版本在 Azure 和 Google Cloud 中进行部署和升级。但此版本暂不支持在 AWS 中部署和升级。BlueXP
 
