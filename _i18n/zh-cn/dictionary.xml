@@ -877,4 +877,8 @@
   <block id="d951df9678da0683e70249f4aeb5ea9e" category="paragraph">Cloud Volumes ONTAP 9.16.1 P10 补丁现已可供所有云提供商升级。控制台将提示您将现有系统升级到此补丁版本。</block>
   <block id="7c8ff86b41b72d8fa99855f2e2c45139" category="inline-link-macro">查看 P10 补丁修复的错误列表</block>
   <block id="60b93f7bd7cd61809b1080f294f03f00" category="paragraph"><block ref="02eca14e8eca47ec8802c1c6504665c3" category="inline-link-macro-rx"></block>（需要登录NetApp支持站点）。</block>
+  <block id="557c60a60be60d6ab5869a248f899a5b" category="section-title">9.16.1 P11 (2026 年 2 月 17 日)</block>
+  <block id="c8fc4e02c37e3ba115f5b5151211d0a4" category="paragraph">Cloud Volumes ONTAP 9.16.1 P11 补丁现已可供所有云提供商升级。Console 将提示您将现有系统升级到此补丁版本。</block>
+  <block id="4d51ff14f4691186785e9ce841b8db7c" category="inline-link-macro">查看 P11 补丁中修复的错误列表</block>
+  <block id="f78f637b367235893656515e0320b18e" category="paragraph"><block ref="67ad79ff8e6ea95deb4c519af6266a5d" category="inline-link-macro-rx"></block> （需要登录 NetApp 支持站点）。</block>
 </blocks>
